@@ -68,7 +68,7 @@ section.allElems{
 .allElems header{
     height: 300px;
     width: 100%;
-    background-image: url(/sunsetImage.avif);
+    background-image: url('/sunsetImage.avif');
     background-size: cover;
     background-position: center;
     margin-bottom: 40px;
