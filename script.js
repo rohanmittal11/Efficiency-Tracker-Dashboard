@@ -296,14 +296,14 @@ function theme(){
             rootElement.style.setProperty('--secondary','#040D12')
             rootElement.style.setProperty('--tri3','#183D3D')
             rootElement.style.setProperty('--tri2','#09724a')
-            bgImage.style.backgroundImage = "url('/nightSkyImage.jpeg')"
+            // bgImage.style.backgroundImage = "url('/nightSkyImage.jpeg')"
             flag = 1
         }else if(flag == 1){
             rootElement.style.setProperty('--primary','#F8F4E1')
             rootElement.style.setProperty('--secondary','#1b0a00')
             rootElement.style.setProperty('--tri3','rgb(91, 70, 45)')
             rootElement.style.setProperty('--tri2','#502901')
-            bgImage.style.backgroundImage = "url('/sunsetImage.avif')"
+            // bgImage.style.backgroundImage = "url('/sunsetImage.avif')"
             flag = 0
         }
         // else if(flag == 2){
